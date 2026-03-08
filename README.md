@@ -136,10 +136,7 @@ Once mapped, launch your set and start performing! 🎶
 
 ## 👥 Team
 
-Built at **[Hackathon Name]** by [Your Team Name].
-
-<!-- Add team member names/links here -->
-
+Built at **[MakeUofT]**
 ---
 
 ## 📄 License
