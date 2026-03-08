@@ -8,8 +8,7 @@ AeroMix is a low-cost DJ hand gesture recognition glove that lets you apply effe
 
 ## ✨ Demo
 
-🎬 <!-- (https://youtu.be/f09dZ_bI0Fw) -->
->  *Coming soon — demo video*
+[![AeroMix Demo](https://img.youtube.com/vi/f09dZ_bI0Fw/maxresdefault.jpg)](https://youtu.be/f09dZ_bI0Fw)
 
 ---
 
